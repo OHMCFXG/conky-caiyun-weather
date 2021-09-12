@@ -8,7 +8,7 @@
    sudo pacman -Syy jq --needed
    ```
 
-3. 浏览器打开 **[高德坐标拾取系统](https://lbs.amap.com/tools/picker) **，修改 conky.conf 第61行为拾取到的经纬度。第57，58行为彩云天气和高德地图的api key，一般无需修改，如发现失效，需自己去开放平台申请
+3. 浏览器打开 **[高德坐标拾取系统](https://lbs.amap.com/tools/picker)**，修改 conky.conf 第61行为拾取到的经纬度。第57，58行为彩云天气和高德地图的api key，一般无需修改，如发现失效，需自己去开放平台申请
 
 4. 运行 start_conky.sh 
 
