@@ -1,6 +1,6 @@
 ## 食用方式
 
-1. 解压zip到 ~/.config/conky/ 
+1. clone仓库到 ~/.config/conky/ 
 
 2. 安装 jq 依赖(用来解析json)，Arch系执行
 
